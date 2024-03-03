@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 date +"%H:%M" > first.txt
 date +"%D" >> first.txt
